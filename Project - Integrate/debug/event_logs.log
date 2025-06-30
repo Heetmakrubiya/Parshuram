@@ -1,0 +1,2 @@
+2025-04-30 14:36:10.936 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'Security': (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2025-04-30 15:59:13.587 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'Security': (6, 'GetNumberOfEventLogRecords', 'The handle is invalid.')

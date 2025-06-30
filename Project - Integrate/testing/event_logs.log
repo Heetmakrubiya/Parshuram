@@ -1,0 +1,22 @@
+2025-03-31 15:28:40.589 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'security': 'security'
+2025-03-31 15:29:23.977 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'system': 'system'
+2025-03-31 15:29:23.978 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'application': 'application'
+2025-03-31 15:29:23.980 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'security': 'security'
+2025-03-31 15:29:28.984 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'security': 'security'
+2025-03-31 15:35:03.820 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'system': 'system'
+2025-03-31 15:35:03.832 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'application': 'application'
+2025-03-31 15:35:03.834 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'security': 'security'
+2025-04-23 17:01:15.370 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'Security': (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2025-04-23 17:01:21.247 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'Security': (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2025-04-23 17:01:26.250 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'Security': (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2025-04-23 17:01:31.254 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'Security': (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2025-04-23 17:01:36.258 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'Security': (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2025-04-23 17:01:41.773 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'Security': (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2025-04-23 17:01:46.776 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'Security': (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2025-04-23 17:01:51.778 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'Security': (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2025-04-23 17:01:56.782 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'Security': (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2025-04-23 17:02:01.784 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'Security': (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2025-04-23 18:34:16.282 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'Security': (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2025-04-23 18:41:03.709 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'Security': (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2025-04-23 18:48:05.500 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'Security': (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
+2025-04-23 18:48:10.788 | ERROR    | __main__:fetch_event_logs:52 - Error fetching logs for 'Security': (1314, 'OpenEventLogW', 'A required privilege is not held by the client.')
